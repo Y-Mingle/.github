@@ -1,12 +1,20 @@
-## Hi there 👋
+# OneLine Messenger: Your Ultimate Minimalistic Chat Experience
 
-<!--
+OneLine Messenger is a simple, lightweight, and privacy-focused messaging app designed to bring clarity and efficiency to your communications. With OneLine, we've stripped away the clutter to focus on what truly matters—your conversations. Whether you're chatting one-on-one or in a group, OneLine provides a clean, intuitive interface that makes staying in touch a breeze.
 
-**Here are some ideas to get you started:**
+## Features
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **Minimalist Design**: A sleek, no-nonsense interface that lets you focus on your conversations.
+- **End-to-End Encryption**: Your messages are secure, ensuring that your chats stay private.
+- **Cross-Platform**: Available on web, desktop, and mobile, so you can stay connected wherever you are.
+- **Lightweight**: Quick to install and easy on system resources.
+- **Customizable Themes**: Choose from a variety of themes to suit your personal style.
+- **Open Source**: OneLine is open-source, so you can contribute to its development or tweak it to your needs.
+
+## Contributing
+
+We welcome contributions! Check out our [contributing guide](CONTRIBUTING.md) to get started.
+
+## License
+
+OneLine Messenger is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
